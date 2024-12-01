@@ -1,4 +1,4 @@
-# Hi, I'm Ranjith B K 👋 ![Profile Views](https://komarev.com/ghpvc/?username=ranjith01810F&color=blue)
+# Hi, I'm Ranjith B K 👋 ![Profile Views](https://komarev.com/ghpvc/?username=ranjith01810F&color=blue) ![GitHub Stars](https://img.shields.io/github/stars/ranjith01810F?style=social)
 
 🚀 **Data Scientist | AI Enthusiast | Innovator**  
 Welcome to my GitHub profile! I'm a **Data Science Master’s student** at **SASTRA University**, deeply passionate about solving real-world problems using **AI**, **machine learning**, and **data analytics**.  
