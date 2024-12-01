@@ -96,4 +96,5 @@ Here, I showcase my journey through **creative projects**, **publications**, and
 
 🌐 **Let’s Connect:**  
 - 📧 **Email:** [ranjithkeerthivasan@gmail.com](mailto:ranjithkeerthivasan@gmail.com)  
-- 💼 **LinkedIn:** [Ranjith B K](http://www.linkedin.com
+-- 💼 **LinkedIn:** [Ranjith B K](https://www.linkedin.com/in/ranjith-b-k/)
+
