@@ -34,7 +34,6 @@ Here, I showcase my journey through **creative projects**, **publications**, and
 ---
 
 ## 🎯 Highlight Projects  
-🔗 Click on the project names to explore!
 
 1. 🌐 **[Healthcare IoT Network Intrusion Detection System](#)**  
    **Built with:** BERT, Deep Learning, Streamlit, SMS Alert System  
